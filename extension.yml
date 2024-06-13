@@ -1,0 +1,7 @@
+name: System Info
+package: deckboard-system-info
+version: 1.0.0
+description: "Display computer system information as graph"
+author: Riva Farabi
+license: MIT
+repository: "https://github.com/rivafarabi/deckboard-system-info"
